@@ -9,4 +9,5 @@ title = "Open Weight Database"
 build-dir = "docs"
 
 [output.html]
+default-theme = "rust"
 no-section-label = true
