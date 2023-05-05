@@ -2,8 +2,9 @@
 
 <br>
 
-| Brand | Model  | Weight (g) |
-| :---: | :----: | :--------: |
-| Polar | Grit X |     64     |
+| Brand  |     Model      | Weight (g) |
+| :----: | :------------: | :--------: |
+| Garmin | Forerunner 245 |     39     |
+| Polar  |     Grit X     |     64     |
 
 *Weights indicated are without batteries, if they are removable.*
