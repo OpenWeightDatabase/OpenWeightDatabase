@@ -1,0 +1,7 @@
+# Bags
+
+<br>
+
+| Brand  | Model | Weight (g) |
+| :----: | :---: | :--------: |
+| Itiwit |  40L  |    480     |
