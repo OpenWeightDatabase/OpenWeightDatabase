@@ -40,7 +40,7 @@ body:
   - type: input
     id: other
     attributes:
-      label: If you chosed "Other" above, can you please explain why?
+      label: If you chose "Other" above, can you please explain why?
       description: What is the weight of the item? Indicate it in grams, without the unit.
     validations:
       required: false
