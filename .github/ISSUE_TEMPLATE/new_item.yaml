@@ -1,0 +1,58 @@
+name: New item
+description: Add a new item
+title: "[Proposal]: "
+assignees:
+  - eze-kiel
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to propose a new item!
+  - type: input
+    id: cat
+    attributes:
+      label: Category
+      description: In which category should this item go?
+      placeholder: ex. Sleeping bags
+    validations:
+      required: true
+  - type: input
+    id: brand
+    attributes:
+      label: Brand
+      description: What is the brand of the item?
+      placeholder: ex. Patagonia, Deuter...
+    validations:
+      required: true
+  - type: input
+    id: model
+    attributes:
+      label: Model
+      description: What is the model of the item?
+      placeholder: ex. Forerunner 245, Z Lite Floor...
+    validations:
+      required: true
+  - type: input
+    id: weight
+    attributes:
+      label: Weight
+      description: What is the weight of the item? Indicate it in grams, without the unit.
+      placeholder: ex. 42, 1337
+    validations:
+      required: true
+  - type: input
+    id: size
+    attributes:
+      label: Size
+      description: If this item is a wearable (jacket, shoes...), please specify its size (if known).
+      placeholder: ex. L, XL, 42.
+    validations:
+      required: false
+  - type: checkboxes
+    id: conf
+    attributes:
+      label: Confirmation
+      description: I confirm that I weighted this item myself, following the rules (without batteries...).
+      options:
+        - label: I confirm
+          required: true
