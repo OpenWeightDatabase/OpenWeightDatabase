@@ -9,7 +9,7 @@
 
 - [Helmets](./climbing/helmets.md)
 - [Shoes](./climbing/shoes.md)
-- [Via Ferrata](./climbing/via-ferrata.md)
+- [Via Ferrata kits](./climbing/via-ferrata-kits.md)
 
 # Hygiene
 
