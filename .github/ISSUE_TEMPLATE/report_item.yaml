@@ -1,0 +1,51 @@
+name: Report an item
+description: Fill this form to an item that seems to be incorrect or inexistent.
+title: "[Report]: "
+assignees:
+  - eze-kiel
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report incorrect items! Improving the quality of items in the catalog really help the community.
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: What is the full name (brand + model) of the item?
+      placeholder: ex. Crispi	Svatissen 75mm
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      description: Please share the link to the page were the item is.
+      placeholder: https://openweightdatabase.org/...
+    validations:
+      required: true
+  - type: dropdown
+    id: error
+    attributes:
+      label: What's wrong with this item?
+      multiple: true
+      options:
+        - It does not exist
+        - The brand is incorrect
+        - The model is incorrect
+        - The weight is incorrect
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: other
+    attributes:
+      label: If you chosed "Other" above, can you please explain why?
+      description: What is the weight of the item? Indicate it in grams, without the unit.
+    validations:
+      required: false
+  - type: textarea
+    id: solution
+    attributes:
+      label: How to solve this
+      description: If you know how to solve this issue (i.e. you know the correct weight), feel free to tell us in the text area below.
