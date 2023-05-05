@@ -9,5 +9,7 @@ title = "Open Weight Database"
 build-dir = "docs"
 
 [output.html]
+git-repository-url = "https://github.com/OpenWeightDatabase/OpenWeightDatabase.github.io"
+git-repository-icon = "fa-github"
 default-theme = "rust"
 no-section-label = true
