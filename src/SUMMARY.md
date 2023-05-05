@@ -19,6 +19,7 @@
 
 # Kitchen
 
+- [Plates, mugs & co.](./kitchen/plates-mugs-co.md)
 - [Stoves](./kitchen/stoves.md)
 
 # Sleeping
