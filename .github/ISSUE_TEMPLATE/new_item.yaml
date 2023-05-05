@@ -1,5 +1,5 @@
-name: New item
-description: Add a new item
+name: Add a new item
+description: Fill this form to add a new item.
 title: "[Proposal]: "
 assignees:
   - eze-kiel
