@@ -1,0 +1,9 @@
+[book]
+authors = ["eze-kiel"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Open Weight Database"
+
+[output.html]
+no-section-label = true
