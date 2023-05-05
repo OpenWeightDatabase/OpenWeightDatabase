@@ -20,6 +20,7 @@
 
 # Electronics
 
+- [Cameras](./electronics/cameras.md)
 - [GPS](./electronics/gps.md)
 - [Watches](./electronics/watches.md)
 
@@ -27,6 +28,11 @@
 
 - [Plates, mugs & co.](./kitchen/plates-mugs-co.md)
 - [Stoves](./kitchen/stoves.md)
+
+# Skiing
+
+- [Shoes](./skiing/shoes.md)
+- [Skis](./skiing/skis.md)
 
 # Sleeping
 
