@@ -7,6 +7,7 @@
 
 # Climbing
 
+- [Helmets](./climbing/helmets.md)
 - [Shoes](./climbing/shoes.md)
 
 # Hygiene
