@@ -45,6 +45,6 @@
 # Tools & accessories
 
 - [Headlamps](./tools-accessories/headlamps.md)
-- [Knives](./tools/knives.md)
-- [Multi-tools](./tools/multitools.md)
-- [Shovels](./tools/shovels.md)
+- [Knives](./tools-accessories/knives.md)
+- [Multi-tools](./tools-accessories/multitools.md)
+- [Shovels](./tools-accessories/shovels.md)
