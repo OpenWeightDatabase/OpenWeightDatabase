@@ -8,7 +8,7 @@ Every hiker/alpinist/adventurer knows how long it can be to weight every item wh
 
 ## Getting started
 
-Use the navigation column on the left to navigate to a given category, or use the magnifying glass on the top to search for an item.
+Use the navigation column on the left to navigate to a given category, or use the magnifying glass on the top to search for an item (or simply press <kbd>S</kbd>).
 
 ## Contribute
 
