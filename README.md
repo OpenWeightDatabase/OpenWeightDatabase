@@ -1,6 +1,6 @@
 # Welcome to Open Weight Database
 
-Hello there, and welcome on the OWD GitHub repository!
+Hello there, and welcome on the OWD GitHub repository! To see the item already present in the database, [go to the website!](https://openweightdatabase.org/)
 
 ## What's the point?
 
