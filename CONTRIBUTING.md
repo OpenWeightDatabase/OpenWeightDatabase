@@ -4,6 +4,7 @@
 
 Here are some basic rules to follow in order to contribute to the project:
 
+* We are interested in **outdoor gear and equipment!**. This includes climbing, hiking, skiing, etc. Do not hesitate to create a new category if your item does not fit one already present.
 * Only share items **you weighted yourself!** By doing so, we can ensure that the weight is accurate.
 * For electronic devices, weight them **without batteries** when possible. 
 
