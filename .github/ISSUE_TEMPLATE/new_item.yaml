@@ -52,7 +52,7 @@ body:
     id: conf
     attributes:
       label: Rules
-      description: I confirm that I weighted this item myself, following the [rules](https://github.com/OpenWeightDatabase/OpenWeightDatabase/CONTRIBUTING.md).
+      description: I confirm that I weighted this item myself, following the [rules](https://github.com/OpenWeightDatabase/OpenWeightDatabase/blob/main/CONTRIBUTING.md).
       options:
         - label: I followed the rules.
           required: true
