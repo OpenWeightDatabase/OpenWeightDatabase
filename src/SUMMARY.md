@@ -45,3 +45,4 @@
 
 - [Knives](./tools/knives.md)
 - [Multi-tools](./tools/multitools.md)
+- [Shovels](./tools/shovels.md)
