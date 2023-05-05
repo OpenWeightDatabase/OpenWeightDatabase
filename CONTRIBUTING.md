@@ -22,10 +22,17 @@ Great, it will be easy for you! You have two ways to propose new items, dependin
 
 If you do not have a GitHub account, you can send me an email to `owd@plop.name` with the following informations:
 
-* Catgeory (sleeping bags, climbing shoes...)
+**To add a new item:**
+* Category (sleeping bags, climbing shoes...)
 * Brand
 * Model
 * Weight (in grams)
 * Size (if wearable)
+
+**To report an inacurate item:**
+* Name of the item
+* Link to the item on the website
+* What's wrong with the item
+* Do you know how to solve this? (the correct weight for example)
 
 ## Thanks again! :heart:
