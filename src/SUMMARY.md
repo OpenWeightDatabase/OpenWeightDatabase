@@ -17,6 +17,11 @@
 
 - [Vests](./clothes/vests.md)
 
+# Electronics
+
+- [GPS](./electronics/gps.md)
+- [Watches](./electronics/watches.md)
+
 # Kitchen
 
 - [Plates, mugs & co.](./kitchen/plates-mugs-co.md)
@@ -26,7 +31,7 @@
 
 - [Sleeping bags](./sleeping/sleeping_bags.md)
 - [Sleeping mats](./sleeping/sleeping_mats.md)
-- [Tents](./sleeping/tents.md)
+- [Tents & tarps](./sleeping/tents-tarps.md)
 
 # Tools
 
