@@ -42,8 +42,9 @@
 - [Sleeping mats](./sleeping/sleeping_mats.md)
 - [Tents & tarps](./sleeping/tents-tarps.md)
 
-# Tools
+# Tools & accessories
 
+- [Headlamps](./tools-accessories/headlamps.md)
 - [Knives](./tools/knives.md)
 - [Multi-tools](./tools/multitools.md)
 - [Shovels](./tools/shovels.md)
