@@ -31,6 +31,7 @@
 
 # Skiing
 
+- [Pulks](./skiing/pulks.md)
 - [Shoes](./skiing/shoes.md)
 - [Skis](./skiing/skis.md)
 
