@@ -1,4 +1,7 @@
 [Home](./home.md)
+[Contributing](./contributing.md)
+
+---
 
 # Bags
 
