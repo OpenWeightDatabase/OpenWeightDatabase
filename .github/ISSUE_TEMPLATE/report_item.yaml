@@ -13,7 +13,7 @@ body:
     attributes:
       label: Name
       description: What is the full name (brand + model) of the item?
-      placeholder: ex. Crispi	Svatissen 75mm
+      placeholder: ex. Crispi Svatissen 75mm
     validations:
       required: true
   - type: input
