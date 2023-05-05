@@ -12,4 +12,4 @@ Use the navigation column on the left to navigate to a given category, or use th
 
 ## Contribute
 
-Contributions are more than welcomed! Please check the GitHub repository to see how to contribute and open a pull request!
+Contributions are more than welcomed! Please check the [GitHub repository](https://github.com/OpenWeightDatabase/OpenWeightDatabase) to see how to contribute and open a pull request!
