@@ -32,6 +32,7 @@
 
 - [Plates, mugs & co.](./kitchen/plates-mugs-co.md)
 - [Stoves](./kitchen/stoves.md)
+- [Utensils](./kitchen/utensils.md)
 
 # Skiing
 
