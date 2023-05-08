@@ -14,6 +14,10 @@
 - [Shoes](./climbing/shoes.md)
 - [Via Ferrata kits](./climbing/via-ferrata-kits.md)
 
+# Hiking
+
+- [Boots](./hiking/boots.md)
+
 # Hygiene
 
 - [Towels](./hygiene/towels.md)
