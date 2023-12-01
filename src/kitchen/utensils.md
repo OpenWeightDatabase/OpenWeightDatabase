@@ -2,6 +2,6 @@
 
 <br>
 
-|    Brand    | Model | Weight (g) |
-| :---------: | :---: | :--------: |
-| LightMyFire | Spork |     10     |
+|    Brand    |      Model       | Weight (g) |
+| :---------: | :--------------: | :--------: |
+| LightMyFire | Spork | 10 |

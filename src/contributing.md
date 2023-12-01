@@ -1,6 +1,6 @@
 # Contributing
 
-Having an inventory that accuartely covers most of the outdoor equipment is a really ambitious project. That's why every contribution is more than welcomed.
+Having an inventory that accurately covers most of the outdoor equipment is a really ambitious project. That's why every contribution is more than welcomed.
 
 You can contribute to this project by either:
 
