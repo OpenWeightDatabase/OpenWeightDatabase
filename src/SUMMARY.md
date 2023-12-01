@@ -18,6 +18,10 @@
 
 - [Boots](./hiking/boots.md)
 
+# Running
+
+- [Shoes](./running/shoes.md)
+
 # Hygiene
 
 - [Towels](./hygiene/towels.md)
