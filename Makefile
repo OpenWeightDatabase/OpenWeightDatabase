@@ -9,6 +9,7 @@ all: help
 
 ## Build:
 build: ## Build the website
+	bash render.sh
 	mdbook build
 
 ## Help:
