@@ -1,6 +1,6 @@
 [Home](./home.md)
 [Contributing](./contributing.md)
-
+[Exporting the data](./exporting.md)
 ---
 
 # Bags
