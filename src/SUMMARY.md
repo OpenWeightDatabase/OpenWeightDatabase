@@ -24,6 +24,7 @@
 
 # Clothes
 
+- [Headwear](./clothes/headwear.md)
 - [Vests](./clothes/vests.md)
 
 # Electronics

@@ -5,7 +5,7 @@ set -eu
 tc() { set ${*,,} ; echo ${*^} ; }
 
 # items in those subcategories have a special header with a 'Size' column
-wearable=("shoes" "boots" "vests")
+wearable=("shoes" "boots" "vests" "headwear")
 
 for file in $(find ./db/ -name *.csv); do
     printf "db file is %s\n" "$file"
