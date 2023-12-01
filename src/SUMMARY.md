@@ -30,6 +30,7 @@
 
 - [Cameras](./electronics/cameras.md)
 - [GPS](./electronics/gps.md)
+- [Headphones](./electronics/headphones.md)
 - [Watches](./electronics/watches.md)
 
 # Kitchen
