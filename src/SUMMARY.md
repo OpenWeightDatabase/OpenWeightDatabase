@@ -12,7 +12,7 @@
 
 - [Helmets](./climbing/helmets.md)
 - [Shoes](./climbing/shoes.md)
-- [Via Ferrata kits](./climbing/via-ferrata-kits.md)
+- [Via ferrata kits](./climbing/via_ferrata_kits.md)
 
 # Hiking
 
@@ -34,7 +34,7 @@
 
 # Kitchen
 
-- [Plates, mugs & co.](./kitchen/plates-mugs-co.md)
+- [Plates, mugs & co.](./kitchen/plates_mugs_co.md)
 - [Stoves](./kitchen/stoves.md)
 - [Utensils](./kitchen/utensils.md)
 
@@ -48,11 +48,12 @@
 
 - [Sleeping bags](./sleeping/sleeping_bags.md)
 - [Sleeping mats](./sleeping/sleeping_mats.md)
-- [Tents & tarps](./sleeping/tents-tarps.md)
+- [Tarps](./sleeping/tarps.md)
+- [Tents](./sleeping/tents.md)
 
 # Tools & accessories
 
-- [Headlamps](./tools-accessories/headlamps.md)
-- [Knives](./tools-accessories/knives.md)
-- [Multi-tools](./tools-accessories/multitools.md)
-- [Shovels](./tools-accessories/shovels.md)
+- [Headlamps](./tools_and_accessories/headlamps.md)
+- [Knives](./tools_and_accessories/knives.md)
+- [Multi-tools](./tools_and_accessories/multi-tools.md)
+- [Shovels](./tools_and_accessories/shovels.md)

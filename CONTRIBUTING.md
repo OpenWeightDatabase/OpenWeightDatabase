@@ -16,7 +16,9 @@ Here are some basic rules to follow in order to contribute to the project proper
 Great, it will be easy for you! You have two ways to propose new items, depending on your skills:
 
 * **East way**: use one of the two forms available in the [issues creation menu](https://github.com/OpenWeightDatabase/OpenWeightDatabase/issues/new/choose). Your issue will be handled by someone to create a PR.
-* **More complex way**: Open a PR with your contribution. We use `mdbook` to automatically generate the HTML pages from the Markdown content. Add your item(s) to the appropriate Mardowm file under `src/`, and then run `make build` to build the HTML pages. 
+
+* **More complex way**: Open a PR with your contribution. Weights are saved in the `db/` folder under the CSV format. Then, they are rendered into Markdown files that can be handled by `mdbook` easily, using the `render.sh` script.
+  * We use `mdbook` to automatically generate the HTML pages from the Markdown content. Add your item(s) to the appropriate CSV file under `db/`, and then run `bash render.sh` and `make build` to build the HTML pages. 
 
 ### I do not have a GitHub account
 

@@ -1,7 +1,0 @@
-# Shovels
-
-<br>
-
-|     Brand     |    Model    | Weight (g) |
-| :-----------: | :---------: | :--------: |
-| Black Diamond | Transfert 7 |    770     |
